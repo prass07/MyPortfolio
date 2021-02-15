@@ -103,7 +103,7 @@ html {
 /* Cover */
 .cover {
   display: flex;
-  background: url('/assets/img/cover.jpg') center;
+  background: url('assets/img/cover.jpg') center;
   top: 0;
   width: 100%;
   height: 90vh;
